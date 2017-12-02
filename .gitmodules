@@ -1,0 +1,6 @@
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap
+[submodule "dist"]
+	path = dist
+	url = https://github.com/MohannadNaj/bootstrap-utilities-dist
