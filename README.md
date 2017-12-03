@@ -25,7 +25,7 @@ import with sass:
 @import "~bootstrap-utilities";
 
 ```
-or link to [bootstrap-utilities.css](bootstrap-utilities.css) in your markup.
+or link to [bootstrap-utilities.css](https://github.com/MohannadNaj/bootstrap-utilities-dist/blob/master/bootstrap-utilities.css) in your markup.
 ``` html
         <link rel="stylesheet" href="node_modules/bootstrap-utilities/bootstrap-utilities.css">
 ```
