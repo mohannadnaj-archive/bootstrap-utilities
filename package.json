@@ -1,10 +1,10 @@
 {
     "name": "bootstrap-utilities-build",
-    "version": "v4.0.0-beta.2",
+    "version": "v4.0.0-beta.3",
     "main": "dist/bootstrap-utilities.css",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/MohannadNaj/bootstrap-utilities.git"
+        "type": "git",
+        "url": "https://github.com/MohannadNaj/bootstrap-utilities.git"
     },
     "homepage": "https://github.com/MohannadNaj/bootstrap-utilities",
     "license": "MIT",
@@ -19,13 +19,12 @@
         "prod": "npm run production",
         "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
     },
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
         "cross-env": "^5.0.1",
         "laravel-mix": "^1.0"
     },
     "engines": {
-      "node": ">=6"
+        "node": ">=6"
     }
 }
