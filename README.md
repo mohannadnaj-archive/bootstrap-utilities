@@ -17,13 +17,13 @@ Because I like bootstrap's utilities, and sometimes I just need bootstrap's awes
 #### jsdelivr
 
 ```
-https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.0.0-beta.3/bootstrap-utilities.css
+https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.0.0/bootstrap-utilities.css
 ```
 
 #### unpkg
 
 ```
-https://unpkg.com/bootstrap-utilities@4.0.0-beta.3/bootstrap-utilities.css
+https://unpkg.com/bootstrap-utilities@4.0.0/bootstrap-utilities.css
 ```
 
 ## installation
