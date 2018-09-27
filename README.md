@@ -17,16 +17,16 @@ Because I like bootstrap's utilities, and sometimes I just need bootstrap's awes
 #### jsdelivr
 
 ```
-https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.0.0/bootstrap-utilities.css
+https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.1.0/bootstrap-utilities.css
 ```
 
 #### unpkg
 
 ```
-https://unpkg.com/bootstrap-utilities@4.0.0/bootstrap-utilities.css
+https://unpkg.com/bootstrap-utilities@4.1.0/bootstrap-utilities.css
 ```
 
-## installation
+## Installation
 
  - install the package:
  
@@ -34,15 +34,6 @@ https://unpkg.com/bootstrap-utilities@4.0.0/bootstrap-utilities.css
  npm install bootstrap-utilities --save
 ```
 
-import with sass:
-``` scss
-@import "node_modules/bootstrap-utilities/bootstrap-utilities";
-
-// or
-
-@import "~bootstrap-utilities";
-
-```
 or link to [bootstrap-utilities.css](https://github.com/MohannadNaj/bootstrap-utilities-dist/blob/master/bootstrap-utilities.css) in your markup.
 ``` html
         <link rel="stylesheet" href="node_modules/bootstrap-utilities/bootstrap-utilities.css">
@@ -51,3 +42,19 @@ or link to [bootstrap-utilities.css](https://github.com/MohannadNaj/bootstrap-ut
 ## Usage
 
 Check [Bootstrap documentation](https://getbootstrap.com/docs/4.0/utilities/borders/) .
+
+## Sass Usage
+
+``` scss
+@import "node_modules/bootstrap-utilities/bootstrap-utilities";
+
+// or
+
+@import "~bootstrap-utilities";
+
+```
+
+#### Note for Sass usage
+
+This package distributes a bundled/compiled CSS. That's CSS built with the default Bootstrap Sass variables. Thus, Overriding Bootstrap's variables before importing this package won't take place.
+
