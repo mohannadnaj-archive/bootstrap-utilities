@@ -8,7 +8,7 @@
 [![npm downloads](https://img.shields.io/npm/dt/bootstrap-utilities.svg)](https://www.npmjs.com/package/bootstrap-utilities)
 [![jsdelivr hits](https://data.jsdelivr.com/v1/package/npm/bootstrap-utilities/badge)](https://www.jsdelivr.com/package/npm/bootstrap-utilities)
 
-[Bootstrap 4 Utilities](http://getbootstrap.com/docs/4.0/utilities/borders/) without bootstrap. 
+[Bootstrap 4 Utilities](http://getbootstrap.com/docs/4.1/utilities/borders/) without bootstrap. 
 
 Because I like bootstrap's utilities, and sometimes I just need bootstrap's awesome utilities, nothing more.
 
@@ -17,13 +17,13 @@ Because I like bootstrap's utilities, and sometimes I just need bootstrap's awes
 #### jsdelivr
 
 ```
-https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.1.0/bootstrap-utilities.css
+https://cdn.jsdelivr.net/npm/bootstrap-utilities@4.1.1/bootstrap-utilities.css
 ```
 
 #### unpkg
 
 ```
-https://unpkg.com/bootstrap-utilities@4.1.0/bootstrap-utilities.css
+https://unpkg.com/bootstrap-utilities@4.1.1/bootstrap-utilities.css
 ```
 
 ## Installation
@@ -41,7 +41,7 @@ or link to [bootstrap-utilities.css](https://github.com/MohannadNaj/bootstrap-ut
 
 ## Usage
 
-Check [Bootstrap documentation](https://getbootstrap.com/docs/4.0/utilities/borders/) .
+Check [Bootstrap documentation](https://getbootstrap.com/docs/4.1/utilities/borders/) .
 
 ## Sass Usage
 

@@ -1,6 +1,6 @@
 {
     "name": "bootstrap-utilities-build",
-    "version": "v4.1.0",
+    "version": "v4.1.1",
     "main": "dist/bootstrap-utilities.css",
     "repository": {
         "type": "git",
