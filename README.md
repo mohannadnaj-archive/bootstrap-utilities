@@ -1,3 +1,25 @@
+# ⚠️ Bootstrap Utilities
+
+⚠️ Deprecated. Bootstrap (5+) now ships with a distributed build of `utilities`, `grid`, `reboot` modules. You should use it, this package no longer relevant.
+
+``` sh
+npm install -S bootstrap
+```
+``` js
+import 'bootstrap/dist/css/bootstrap-utilities.min.css';
+```
+
+CDN (for version 5.2.0-beta1, the latest at the time of this writing):
+
+```
+https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap-utilities.min.css
+
+https://unpkg.com/bootstrap@5.2.0-beta1/dist/css/bootstrap-utilities.min.css
+```
+File size: 55.08 KB
+
+----------
+
 :warning: USE THE [DISTRIBUTION VERSION](https://github.com/MohannadNaj/bootstrap-utilities-dist). THIS IS THE GENERATOR.
 
 ----------
